@@ -17,6 +17,7 @@
       li,
       .markdown-section table {
         font-size: 1.1rem !important;
+        line-height: 1.8rem !important;
       }
       .cover,
       .cover span {
@@ -53,6 +54,10 @@
           bottom: unset;
         }
       }
+      .cover,
+      .cover span {
+        color: #000 !important;
+      }
     </style>
   </head>
   <body>
@@ -63,14 +68,15 @@
         repo: 'https://github.com/Limoverse-Technologies/docs',
         loadSidebar: true,
         subMaxLevel: 3,
-        // coverpage: true,
+        coverpage: true,
         autoHeader: true,
+        routerMode: 'history',
         copyCode: {
           buttonText: 'Copy to clipboard',
           errorText: 'Error',
           successText: 'Copied'
         },
-        themeColor: '#0A111B',
+        themeColor: '#5281d9',
         mergeNavbar: true,
         topMargin: 30,
         pagination: {
