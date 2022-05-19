@@ -6,3 +6,4 @@
   - [LIMO Token Dashboard](legal-dashboard.md)
   - [AML, CFT & KYC Policy](aml-kyc.md)
   - [Privacy Policy](privacy.md)
+- [**Social**](social.md)

@@ -6,7 +6,7 @@ This is a global platform connecting health seekers and wellness providers from 
 
 ## Why Limoverse
 
-Limoverse stands to provide solutions for some of the chronic pains in the society connected with healthcare
+[Limoverse](https://limoverse.io) stands to provide solutions for some of the chronic pains in the society connected with healthcare
 
 - A middle class family is just one hospital bill away from poverty!
 - People are realizing the fact that wellness is cheaper than illness. But they don’t know, how to achieve that.
